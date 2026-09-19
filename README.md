@@ -1,16 +1,35 @@
-## Hi there 👋
+# Steffen M.
 
-<!--
-**HansaExport/HansaExport** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Softwareentwicklung · MarschallTech · Tools, Checklisten & digitale Produkte
 
-Here are some ideas to get you started:
+Ich entwickle Software, technische Inhalte und digitale Produkte mit einem klaren Fokus auf praxistaugliche Lösungen für kleine Softwareteams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## MarschallTech
+
+Unter **MarschallTech** entstehen praxisnahe Inhalte, Vorlagen und digitale Produkte rund um Softwareentwicklung, Zusammenarbeit im Team und technische Prozesse.
+
+- Website: https://marschallone.de/tech/
+- Praxiswissen: https://marschallone.de/tech/wissen/
+- YouTube: https://www.youtube.com/@MarschallOneDE
+
+## Aktuell
+
+### Developer Checklists
+
+Praktische Checklisten für Code Reviews, Releases und eine praxistaugliche Definition of Done.
+
+https://github.com/HansaExport/marschalltech-developer-checklists
+
+Enthalten sind:
+
+- Code Review Checkliste
+- Release Checkliste
+- Definition of Done
+
+## Themen
+
+Softwareentwicklung · Code Reviews · Releases · Teamprozesse · Developer Workflows · technische Dokumentation
+
+---
+
+Mehr zu MarschallOne und den Bereichen MarschallTech, MarschallTrade und MarschallCreative unter https://marschallone.de/

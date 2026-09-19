@@ -1,4 +1,4 @@
-# Steffen M.
+# Steffen Marschall, Dipl.-Ing. (FH)
 
 Softwareentwicklung · MarschallTech · Tools, Checklisten & digitale Produkte
 

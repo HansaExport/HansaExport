@@ -10,6 +10,7 @@ Unter **MarschallTech** entstehen praxisnahe Inhalte, Vorlagen und digitale Prod
 
 - Website: https://marschallone.de/tech/
 - Praxiswissen: https://marschallone.de/tech/wissen/
+- LinkedIn: https://www.linkedin.com/in/steffen-marschall
 - YouTube: https://www.youtube.com/@MarschallOneDE
 
 ## Aktuell

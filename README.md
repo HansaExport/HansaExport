@@ -8,9 +8,9 @@ Ich entwickle Software, technische Inhalte und digitale Produkte mit einem klare
 
 Unter **MarschallTech** entstehen praxisnahe Inhalte, Vorlagen und digitale Produkte rund um Softwareentwicklung, Zusammenarbeit im Team und technische Prozesse.
 
-- Website: https://marschallone.de/tech/
-- Praxiswissen: https://marschallone.de/tech/wissen/
-- Developer Team Toolkit: https://marschallone.de/tech/#toolkit
+- Website: [marschallone.de/tech](https://marschallone.de/tech?utm_source=github&utm_medium=profile&utm_campaign=marschallone)
+- Praxiswissen: [marschallone.de/tech/wissen](https://marschallone.de/tech/wissen?utm_source=github&utm_medium=profile&utm_campaign=marschallone)
+- Developer Team Toolkit: [marschallone.de/tech#toolkit](https://marschallone.de/tech?utm_source=github&utm_medium=profile&utm_campaign=marschallone#toolkit)
 - LinkedIn: https://www.linkedin.com/in/steffen-marschall
 - YouTube: https://www.youtube.com/@MarschallOneDE
 
@@ -34,4 +34,4 @@ Softwareentwicklung · Pull Requests · Code Reviews · Releases · Tickets · A
 
 ---
 
-Mehr zu MarschallOne und den Bereichen MarschallTech, MarschallTrade und MarschallCreative unter https://marschallone.de/
+Mehr zu MarschallOne und den Bereichen MarschallTech, MarschallTrade und MarschallCreative unter [marschallone.de](https://marschallone.de?utm_source=github&utm_medium=profile&utm_campaign=marschallone)
